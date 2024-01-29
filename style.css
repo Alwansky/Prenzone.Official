@@ -105,7 +105,10 @@
 /* END OF ABOUT */
 
 /* CARD */
-.card-pembungkus {
+.judul-package {
+  background-color: #93a689;
+  padding: 5px;
+  color: white;
 }
 /* END OF CARD */
 
